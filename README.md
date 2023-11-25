@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Taimour Ali Khan</h1>
-  <p>mtaimooralikhan@gmail.com +971 568155720</p>
+  <p>mtaimooralikhan@gmail.com +971 568576216</p>
 
 
 </div>
