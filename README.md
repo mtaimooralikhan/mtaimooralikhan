@@ -1,48 +1,40 @@
 <div align="center">
   <h1 align="center">Taimour Ali Khan</h1>
-  <p>mtaimooralikhan@gmail.com +971 568576216</p>
-
-
+  <p>mtaimooralikhan@gmail.com &nbsp;|&nbsp; +971 566726714</p>
 </div>
 
-## I'm Taimour Ali Khan, FullStack Dev!
+## 👋 Hi there, I'm Taimour — a Full Stack Developer!
+
+I'm a passionate developer who loves building seamless user experiences and integrating powerful backends. I specialize in crafting modern web applications with clean, efficient code and love working at the intersection of design, development, and blockchain technology.
 
 ---
 
-<details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
-<table>
-    <tr>
-        <td>
-            <img
-                 width="5000"
-                src="https://github-readme-stats.vercel.app/api?username=mtaimooralikhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&count_private=true&show_icons=true&theme=tokyonight&hide_border=true"
-            />
-        </td>
-        <td>
-            <img
-                width="5000"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaimooralikhan&hide_border=true&layout=compact&theme=tokyonight&langs_count=10"
-            />
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img
-                width="5000"
-                src="http://github-readme-streak-stats.herokuapp.com?user=mtaimooralikhan&theme=tokyonight&hide_border=true"
-            />
-        </td>
-        <td>
-            <img
-                width="5000"
-                src="https://activity-graph.herokuapp.com/graph?username=mtaimooralikhan&theme=tokyonight&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"
-            />
-        </td>
-    </tr>
-</table>
+### 🧠 Tech Stack
 
-</details>
-   <div align="center">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/codepadding/codepadding/main/animation.svg"/>
-  </div>
+- 💻 **Frontend**: React, Next.js, Tailwind CSS, JavaScript, TypeScript
+- 🛠️ **Backend**: Node.js, Express, MongoDB, PostgreSQL, Firebase
+- 🌐 **Web3 / Blockchain**: Ethers.js, Web3.js, Solidity (Beginner)
+- ⚙️ **Tools & Platforms**: Git, Docker, Vercel, Linux, Figma, VS Code
+
+---
+
+### 🔭 Current Focus
+
+- Learning advanced Web3 development and smart contract integration
+- Contributing to full-stack projects at [Stix](https://yourcompanylink.com)
+- Experimenting with microservices and containerization (Docker, Kubernetes)
+
+---
+
+### 📫 How to Reach Me
+
+- 📧 Email: [mtaimooralikhan@gmail.com](mailto:mtaimooralikhan@gmail.com)
+- 📱 WhatsApp: [+971 566726714](https://wa.me/971566726714)
+- 💼 LinkedIn: [linkedin.com/in/taimooralikhan](https://linkedin.com/in/taimooralikhan)
+- 🌐 Portfolio: [taimooralikhan.dev](https://yourportfoliolink.com)
+
+---
+
+<div align="center">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/codepadding/codepadding/main/animation.svg"/>
+</div>
