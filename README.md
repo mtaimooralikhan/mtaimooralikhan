@@ -31,7 +31,7 @@ I'm a passionate developer who loves building seamless user experiences and inte
 - 📧 Email: [mtaimooralikhan@gmail.com](mailto:mtaimooralikhan@gmail.com)
 - 📱 WhatsApp: [+971 566726714](https://wa.me/971566726714)
 - 💼 LinkedIn: [linkedin.com/in/taimooralikhan](https://linkedin.com/in/taimooralikhan)
-- 🌐 Portfolio: [taimooralikhan.dev](https://yourportfoliolink.com)
+- 🌐 Portfolio: [taimooralikhan.dev]([https://yourportfoliolink.com](https://taimourali-portfolio.netlify.app/))
 
 ---
 
